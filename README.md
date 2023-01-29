@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Infintur11
-- 👀 I’m in love with coding
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email
+- 👋 Hi, I’m @GauravSingh
+- 👀 Coding and Loves me 
+- 🌱 I am currently on a mission of learning skills
+- 💞️ I’m looking to collaborate on projects with people
+- 📫 How to reach me email bugatigori@gmail.com
 
 <!---
 Infintur11/Infintur11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
