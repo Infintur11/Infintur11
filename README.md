@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauravSingh
-- 👀 Coding and Loves me 
+- 👀 Coding Loves me 
 - 🌱 I am currently on a mission of learning skills
 - 💞️ I’m looking to collaborate on projects with people
 - 📫 How to reach me email bugatigori@gmail.com
