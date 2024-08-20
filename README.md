@@ -2,7 +2,7 @@
 - 👀 Coding Loves me 
 - 🌱 I am currently on a mission of learning skills
 - 💞️ I’m looking to collaborate on projects with people
-- 📫 How to reach me email bugatigori@gmail.com
+- 📫 How to reach me email bugatigori@gmail.com and gauravsinghgs1719090@gmail.com
 
 <!---
 Infintur11/Infintur11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
