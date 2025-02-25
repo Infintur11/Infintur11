@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Gaurav Singh</h1>
-<img align="right" alt="coding" width="700" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw16g-kixk15MI5_HDjgYpQZ&ust=1740553707327000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIia1f-h3osDFQAAAAAdAAAAABAx">
+<img align="right" alt="coding" width="700" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw16g-kixk15MI5_HDjgYpQZ&ust=1740553707327000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIia1f-h3osDFQAAAAAdAAAAABAx](https://i.redd.it/n8agw6z2smyb1.gif)">
 <p>I'm a passionate developer with experience in Blockchain, AI/ML, IoT, and Full-Stack Development. I love working on innovative projects, solving complex problems, and contributing to open-source communities. Currently, I’m expanding my expertise in .NET and sharpening my DSA skills.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
