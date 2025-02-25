@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Gaurav Singh</h1>
 <br>
-<img  alt="coding" width="600" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw16g-kixk15MI5_HDjgYpQZ&ust=1740553707327000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIia1f-h3osDFQAAAAAdAAAAABAx](https://i.redd.it/n8agw6z2smyb1.gif)">
+<img  alt="coding" width="600" src="https://i.redd.it/n8agw6z2smyb1.gif">
 <br>
 <p>I'm a passionate developer with experience in Blockchain, AI/ML, IoT, and Full-Stack Development. I love working on innovative projects, solving complex problems, and contributing to open-source communities.<br> Currently, I’m expanding my expertise in .NET and sharpening my DSA skills.</p>
 <br>
