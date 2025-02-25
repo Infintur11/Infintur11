@@ -1,7 +1,6 @@
-<h1>Hi 👋, I'm Gaurav Singh</h1>
+<h1>Hi 👋, Gaurav Singh here</h1>
 <br>
-<img  alt="coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif/">
-<br>
+<img align="right"  alt="coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif/">
 <p>I'm a passionate developer with experience in Blockchain, AI/ML, IoT, and Full-Stack Development. I love working on innovative projects, solving complex problems, and contributing to open-source communities.<br> Currently, I’m expanding my expertise in .NET and sharpening my DSA skills.</p>
 <br>
 <h2>🚀 Languages and Tools I Use</h2>
