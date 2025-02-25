@@ -1,6 +1,6 @@
 <h1>Hi 👋, Gaurav Singh here</h1>
 <br>
-<img align="right"  alt="coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif/">
+<img align="center"  alt="coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif/">
 <p>I'm a passionate developer with a deep interest in cutting-edge technologies, including Blockchain, AI/ML, IoT, and Full-Stack Development. Over the years, I have worked on numerous projects that bridge innovation and practicality, focusing on creating impactful solutions that enhance user experience and operational efficiency.
 <br>
 I thrive on tackling complex problems and developing scalable solutions, whether it's designing secure smart contracts, implementing AI-driven insights, or optimizing IoT-based automation systems. I actively contribute to open-source communities, collaborate on new ideas, and constantly seek opportunities to grow and expand my skill set.
