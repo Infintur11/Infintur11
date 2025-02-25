@@ -4,7 +4,8 @@
 <p>I'm a passionate developer with experience in Blockchain, AI/ML, IoT, and Full-Stack Development. I love working on innovative projects, solving complex problems, and contributing to open-source communities.<br> Currently, I’m expanding my expertise in .NET and sharpening my DSA skills.</p>
 <br>
 <br> <br>
-<h2>🚀 Languages and Tools I Use</h2>
+<br> <br> <br> 
+<h2>🚀 Languages and Tools :</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
