@@ -2,7 +2,6 @@
 <br>
 <img align="center"  alt="coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif/">
 <p>A passionate developer with expertise in Blockchain, AI/ML, IoT, and Full-Stack Development, focusing on enhancing user experience and operational efficiency. Thrives in tackling complex problems and developing scalable solutions. Currently exploring.NET and DSA to enhance technical expertise and problem-solving abilities, aiming to stay ahead in the tech landscape.</p>
-<br>
 
 <h2>🚀 Languages and Tools :</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
