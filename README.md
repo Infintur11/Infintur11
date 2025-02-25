@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Gaurav Singh</h1>
 <br>
-<img  alt="coding" width="600" src="https://www.google.com/imgres?q=animation%20coding%20gif&imgurl=https%3A%2F%2Fwww.lambdatest.com%2Fresources%2Fimages%2Fnews24.gif%2F&imgrefurl=https%3A%2F%2Fgithub.com%2Fjayed87%2Fjayed87&docid=fiasooGjd-clwM&tbnid=ZhQzSnD4VeNxRM&vet=12ahUKEwjL7438od6LAxU3zTgGHa-MBKMQM3oECE0QAA..i&w=800&h=466&hcb=2&ved=2ahUKEwjL7438od6LAxU3zTgGHa-MBKMQM3oECE0QAA">
+<img  alt="coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif/">
 <br>
 <p>I'm a passionate developer with experience in Blockchain, AI/ML, IoT, and Full-Stack Development. I love working on innovative projects, solving complex problems, and contributing to open-source communities.<br> Currently, I’m expanding my expertise in .NET and sharpening my DSA skills.</p>
 <br>
