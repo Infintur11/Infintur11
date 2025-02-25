@@ -7,8 +7,7 @@ I thrive on tackling complex problems and developing scalable solutions, whether
 <br>
 Currently, I’m diving into the world of .NET to broaden my technical expertise, while also sharpening my Data Structures and Algorithms (DSA) skills to strengthen my problem-solving abilities. My goal is to stay ahead in the ever-evolving tech landscape and leverage my knowledge to create robust, efficient, and future-ready solutions.</p>
 <br>
-<br> <br>
-<br> <br> <br> 
+
 <h2>🚀 Languages and Tools :</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
