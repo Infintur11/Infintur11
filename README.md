@@ -46,4 +46,4 @@
 
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/gauravsingh25" style="display: inline-block;"><img src="https://s4.ezgif.com/tmp/ezgif-4acf83835acd80.gif" alt="linkedin" width="150" height="75" /></a></p>
+<p><a  href="https://www.linkedin.com/in/gauravsingh25" target="_blank" style="display: inline-block;"><img src="https://s4.ezgif.com/tmp/ezgif-4acf83835acd80.gif" alt="linkedin" width="150" height="75" /></a></p>
