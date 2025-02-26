@@ -4,7 +4,7 @@
 <p>A passionate developer with expertise in Blockchain, AI/ML, IoT, and Full-Stack Development, focusing on enhancing user experience and operational efficiency. Thrives in tackling complex problems and developing scalable solutions. Currently exploring.NET and DSA to enhance technical expertise and problem-solving abilities, aiming to stay ahead in the tech landscape.</p>
 
 <h2>🚀 Languages and Tools :</h2>
-## Tech Stack
+
 
 <table>
   <tr>
