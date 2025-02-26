@@ -2,8 +2,9 @@
 <br>
 <div>
 <img align="right"  alt="coding" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6060fa143584307.627d06916b633.gif">
-<p>A passionate developer with expertise in Blockchain, AI/ML, IoT, and Full-Stack Development, focusing on enhancing user experience and operational efficiency. Thrives in tackling complex problems and developing scalable solutions. Currently exploring.NET and DSA to enhance technical expertise and problem-solving abilities, aiming to stay ahead in the tech landscape.<br><br><br></p>
+<p>A passionate developer with expertise in Blockchain, AI/ML, IoT, and Full-Stack Development, focusing on enhancing user experience and operational efficiency. Thrives in tackling complex problems and developing scalable solutions. Currently exploring.NET and DSA to enhance technical expertise and problem-solving abilities, aiming to stay ahead in the tech landscape.</p>
 </div>
+<br><br><br>
 <h2>🚀 Languages and Tools :</h2>
 
 
