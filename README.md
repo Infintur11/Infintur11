@@ -6,7 +6,7 @@
 <h2>🚀 Languages and Tools :</h2>
 
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"></a></td>
     <td align="center"><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"></a></td>
