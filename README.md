@@ -7,9 +7,6 @@
 <br><br><br>
 <h2>🚀 Languages and Tools :</h2>
 
-
-## Tech Stack
-
 <table>
   <tr>
     <td align="center"><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="64" height="64"></a></td>
